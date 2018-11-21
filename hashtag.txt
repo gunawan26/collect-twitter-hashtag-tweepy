@@ -1,0 +1,9 @@
+#samsung,#galaxys9,#galaxys10,#galaxynote9,#galaxynote,#galaxya9,galaxya8,#galaxys9+,galaxya7,galaxya5
+#oppo,#oppof9,#findx,#r17pro,#oppoa7,#oppoa5,#oppoa3,#oppof9pro
+#xiaomi,#xiaomia2,#mi8,#mi8pro,#pocof1,#mimix3,#mi8lite,#redminote6pro,#redmi6,#redmi6a,#redminote5a#redmis2,#xiaomia2lite,redmis2
+#vivo,#vivov11,#vivov11pro,#vivoy91
+#nokia,#nokia6plus,#Nokia8
+#huwaei,#mate20,#mate20pro,#mate20x,#p20,#p20pro,#nova3,#y9
+#pixel3,#pixel2,pixel3lite,pixel3xl
+#oneplus,#oneplus6t,#oneplus6,#oneplus5
+#sony,#XperiaXZ3,#XperiaXZ2,#XperiaXa2,#XperiaXZ2premium,#XperiaXZ
