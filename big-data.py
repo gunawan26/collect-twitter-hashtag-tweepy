@@ -1,5 +1,6 @@
 import tweepy
 import json
+import datetime
 
 
 consumer_key = "MF9HGJHix7aH40oel8O9zbc7k"
@@ -7,7 +8,7 @@ consumer_secret = "Rd97ibI3rtXTAeyQOqpnVhIWNnCJknRF5wifLw7aoFDY9O586a"
 access_token ="1222006003-KZffuFWbvIZvMFYuNQDGvAQyqdo3UmPVue2bmmQ"
 access_token_secret = "97GvmsPUzASgkLDEAhzhIf6nholUc3JpiYEUre8nXjj4t"
 
-searching_variable = "#oppo"
+name_var = ""
 jumlah_data = 100
 
 
@@ -18,11 +19,11 @@ def connectData(ArgsConsKey,ArgsConsSecret,ArgsToken,ArgsTokenSecret):
 
     return api
 
-def getData(ArgsApi):
+def getData(ArgsApi,hashtagArgs):
     x = []
     count = 0
 
-    for status in tweepy.Cursor(ArgsApi.search,q=searching_variable,geocode="-6.16920,106.82526,1000km" ).items(jumlah_data):
+    for status in tweepy.Cursor(ArgsApi.search,q=hashtagArgs).items(20):
 
         # x.update(status._json)
         print(status._json)
@@ -33,16 +34,26 @@ def getData(ArgsApi):
 
 
 
-    with open(searching_variable+'.json', 'a') as f:
+    with open(name_var+'.json', 'a+') as f:
+        print("create file")
         json.dump(x, f,indent=2)
 
 
 
 
 def main():
+    global  name_var
+    myApi = connectData(consumer_key, consumer_secret, access_token, access_token_secret)
+    f= open("hashtag.txt","r")
 
-    myApi = connectData(consumer_key,consumer_secret,access_token,access_token_secret)
-    getData(myApi)
+    for i in f:
+        tgl_skrng = datetime.datetime.now()
+        hashtags = i.split(",")
+        judul = hashtags[0]+'%s'%(tgl_skrng.microsecond)
+        name_var = judul
+        for ht in hashtags:
+            print(ht)
+            getData(myApi,ht)
     pass
 
 

@@ -1,9 +1,13 @@
 #samsung,#galaxys9,#galaxys10,#galaxynote9,#galaxynote,#galaxya9,galaxya8,#galaxys9+,galaxya7,galaxya5
-#oppo,#oppof9,#findx,#r17pro,#oppoa7,#oppoa5,#oppoa3,#oppof9pro
-#xiaomi,#xiaomia2,#mi8,#mi8pro,#pocof1,#mimix3,#mi8lite,#redminote6pro,#redmi6,#redmi6a,#redminote5a#redmis2,#xiaomia2lite,redmis2
+#oppo,#oppof9,#findx,#r17pro,#oppoa7,#oppoa5,#oppoa3,#oppof9pro,#realme20pro,#realmec1,#realme,#realme2pro
+#xiaomi,#xiaomia2,#mi8,#mi8pro,#pocof1,#mimix3,#mi8lite,#redminote6pro,#redmi6,#redmi6a,#redminote5a#redmis2,#xiaomia2lite,redmis2,#redminote6
 #vivo,#vivov11,#vivov11pro,#vivoy91
 #nokia,#nokia6plus,#Nokia8
 #huwaei,#mate20,#mate20pro,#mate20x,#p20,#p20pro,#nova3,#y9
 #pixel3,#pixel2,pixel3lite,pixel3xl
 #oneplus,#oneplus6t,#oneplus6,#oneplus5
 #sony,#XperiaXZ3,#XperiaXZ2,#XperiaXa2,#XperiaXZ2premium,#XperiaXZ
+#asus,#zenfone5,#zenfone5z,#zenfone5lite,#zenfone4,#maxprom1,#maxprom2,#rogphone
+#lg,#lgg7,#lgv40,#lgv40thinq,#lgg7thinq,#lgv30
+#meizu,#MeizuM16s,#MeizuM8,#Meizuc9,#Meizunote8,#Meizux8
+#iphone,#iphonexs,#iphonex,#iphonexsmax,#iphonexr,#iphone8
