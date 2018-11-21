@@ -1,0 +1,2270 @@
+{
+  "#samsung": {
+    "created_at": "Wed Nov 21 20:54:31 +0000 2018",
+    "id": 1065347750601138178,
+    "id_str": "1065347750601138178",
+    "text": "RT @Weightlossandmo: https://t.co/guRDMnQn4l\n#Bluetooth #Headphone,KUPPET Mini Wireless Earphone in-Ear Earphone with 180\u00b0Rotation,Headphon\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Bluetooth",
+          "indices": [
+            45,
+            55
+          ]
+        },
+        {
+          "text": "Headphone",
+          "indices": [
+            56,
+            66
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Weightlossandmo",
+          "name": "weight loss,fitness and more",
+          "id": 963621966933626880,
+          "id_str": "963621966933626880",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/guRDMnQn4l",
+          "expanded_url": "https://amzn.to/2pDJoRM",
+          "display_url": "amzn.to/2pDJoRM",
+          "indices": [
+            21,
+            44
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 963621966933626880,
+      "id_str": "963621966933626880",
+      "name": "weight loss,fitness and more",
+      "screen_name": "Weightlossandmo",
+      "location": "",
+      "description": "instagram:https://t.co/VUqkch7xkT\nclick here to lear how to make passive income online\u2b07\u2b07\u2b07\u2b07\u2b07\nhttps://t.co/xsUkxr3jgY",
+      "url": "https://t.co/ZbPBIhnxNd",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/ZbPBIhnxNd",
+              "expanded_url": "http://healthy-weight-loss-and-more.site123.me/",
+              "display_url": "\u2026althy-weight-loss-and-more.site123.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/VUqkch7xkT",
+              "expanded_url": "http://instagram.com/jesuschristfollower1",
+              "display_url": "instagram.com/jesuschristfol\u2026",
+              "indices": [
+                10,
+                33
+              ]
+            },
+            {
+              "url": "https://t.co/xsUkxr3jgY",
+              "expanded_url": "http://onlinemarketing1.site123.me",
+              "display_url": "onlinemarketing1.site123.me",
+              "indices": [
+                92,
+                115
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 1708,
+      "friends_count": 4866,
+      "listed_count": 4,
+      "created_at": "Wed Feb 14 03:52:34 +0000 2018",
+      "favourites_count": 746,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 554,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/968132514178129926/nEGZz2c7_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/968132514178129926/nEGZz2c7_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/963621966933626880/1518585816",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Oct 07 22:15:32 +0000 2018",
+      "id": 1049060684653367296,
+      "id_str": "1049060684653367296",
+      "text": "https://t.co/guRDMnQn4l\n#Bluetooth #Headphone,KUPPET Mini Wireless Earphone in-Ear Earphone with 180\u00b0Rotation,Headp\u2026 https://t.co/lEydCCESUn",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Bluetooth",
+            "indices": [
+              24,
+              34
+            ]
+          },
+          {
+            "text": "Headphone",
+            "indices": [
+              35,
+              45
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/guRDMnQn4l",
+            "expanded_url": "https://amzn.to/2pDJoRM",
+            "display_url": "amzn.to/2pDJoRM",
+            "indices": [
+              0,
+              23
+            ]
+          },
+          {
+            "url": "https://t.co/lEydCCESUn",
+            "expanded_url": "https://twitter.com/i/web/status/1049060684653367296",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 963621966933626880,
+        "id_str": "963621966933626880",
+        "name": "weight loss,fitness and more",
+        "screen_name": "Weightlossandmo",
+        "location": "",
+        "description": "instagram:https://t.co/VUqkch7xkT\nclick here to lear how to make passive income online\u2b07\u2b07\u2b07\u2b07\u2b07\nhttps://t.co/xsUkxr3jgY",
+        "url": "https://t.co/ZbPBIhnxNd",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/ZbPBIhnxNd",
+                "expanded_url": "http://healthy-weight-loss-and-more.site123.me/",
+                "display_url": "\u2026althy-weight-loss-and-more.site123.me",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/VUqkch7xkT",
+                "expanded_url": "http://instagram.com/jesuschristfollower1",
+                "display_url": "instagram.com/jesuschristfol\u2026",
+                "indices": [
+                  10,
+                  33
+                ]
+              },
+              {
+                "url": "https://t.co/xsUkxr3jgY",
+                "expanded_url": "http://onlinemarketing1.site123.me",
+                "display_url": "onlinemarketing1.site123.me",
+                "indices": [
+                  92,
+                  115
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1708,
+        "friends_count": 4866,
+        "listed_count": 4,
+        "created_at": "Wed Feb 14 03:52:34 +0000 2018",
+        "favourites_count": 746,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 554,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/968132514178129926/nEGZz2c7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/968132514178129926/nEGZz2c7_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/963621966933626880/1518585816",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "#galaxys9": {
+    "created_at": "Wed Nov 21 20:42:20 +0000 2018",
+    "id": 1065344683931549696,
+    "id_str": "1065344683931549696",
+    "text": "RT @GExperienceFR: Un avant-go\u00fbt d'Android Pie et One UI avant l'arriv\u00e9e de la b\u00eata chez nous \ud83d\udcf1\n#Samsung #update #mise\u00e0jour #beta #Android\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Samsung",
+          "indices": [
+            96,
+            104
+          ]
+        },
+        {
+          "text": "update",
+          "indices": [
+            105,
+            112
+          ]
+        },
+        {
+          "text": "mise\u00e0jour",
+          "indices": [
+            113,
+            123
+          ]
+        },
+        {
+          "text": "beta",
+          "indices": [
+            124,
+            129
+          ]
+        },
+        {
+          "text": "Android",
+          "indices": [
+            130,
+            138
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "GExperienceFR",
+          "name": "Galaxy Experience",
+          "id": 807283660038819846,
+          "id_str": "807283660038819846",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "fr",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 340793625,
+      "id_str": "340793625",
+      "name": "Alexandre Pierrat\ud83d\udcf1",
+      "screen_name": "alexpierrat",
+      "location": "Le Chesnay, France",
+      "description": "\u00c9diteur de @GExperienceFR // Inspired by Humans, Creating the Future // #GalaxyS9",
+      "url": "https://t.co/Z3sz6qpgxL",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/Z3sz6qpgxL",
+              "expanded_url": "http://www.alexpierrat.fr/",
+              "display_url": "alexpierrat.fr",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 176,
+      "friends_count": 532,
+      "listed_count": 15,
+      "created_at": "Sat Jul 23 08:16:06 +0000 2011",
+      "favourites_count": 3187,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 5880,
+      "lang": "fr",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C6E2EE",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1063864242095427584/I4WwUiAm_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1063864242095427584/I4WwUiAm_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/340793625/1542479976",
+      "profile_link_color": "1F98C7",
+      "profile_sidebar_border_color": "C6E2EE",
+      "profile_sidebar_fill_color": "DAECF4",
+      "profile_text_color": "663B12",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Nov 21 20:42:06 +0000 2018",
+      "id": 1065344627421650945,
+      "id_str": "1065344627421650945",
+      "text": "Un avant-go\u00fbt d'Android Pie et One UI avant l'arriv\u00e9e de la b\u00eata chez nous \ud83d\udcf1\n#Samsung #update #mise\u00e0jour #beta\u2026 https://t.co/45XBrvnfWg",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Samsung",
+            "indices": [
+              77,
+              85
+            ]
+          },
+          {
+            "text": "update",
+            "indices": [
+              86,
+              93
+            ]
+          },
+          {
+            "text": "mise\u00e0jour",
+            "indices": [
+              94,
+              104
+            ]
+          },
+          {
+            "text": "beta",
+            "indices": [
+              105,
+              110
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/45XBrvnfWg",
+            "expanded_url": "https://twitter.com/i/web/status/1065344627421650945",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              112,
+              135
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "fr",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 807283660038819846,
+        "id_str": "807283660038819846",
+        "name": "Galaxy Experience",
+        "screen_name": "GExperienceFR",
+        "location": "Le Chesnay, France",
+        "description": "L'actualit\u00e9 100% Samsung Galaxy, et bien plus !",
+        "url": "https://t.co/b3qsB5EvoE",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/b3qsB5EvoE",
+                "expanded_url": "http://www.galaxyexperience.fr/",
+                "display_url": "galaxyexperience.fr",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 318,
+        "friends_count": 47,
+        "listed_count": 7,
+        "created_at": "Fri Dec 09 17:59:57 +0000 2016",
+        "favourites_count": 288,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 4036,
+        "lang": "fr",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1020732395211849728/6ZbskBtp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1020732395211849728/6ZbskBtp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/807283660038819846/1532196555",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "fr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "fr"
+  },
+  "#galaxys10": {
+    "created_at": "Wed Nov 21 20:49:29 +0000 2018",
+    "id": 1065346483552169984,
+    "id_str": "1065346483552169984",
+    "text": "RT @ansa_tecnologia: #Samsung, arriva super #smartphone con 6 fotocamere. #Galaxys10, il dispositivo dell'anniversario, sar\u00e0 in 4 versioni.\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Samsung",
+          "indices": [
+            21,
+            29
+          ]
+        },
+        {
+          "text": "smartphone",
+          "indices": [
+            44,
+            55
+          ]
+        },
+        {
+          "text": "Galaxys10",
+          "indices": [
+            74,
+            84
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "ansa_tecnologia",
+          "name": "Ansa Tecnologia",
+          "id": 110453836,
+          "id_str": "110453836",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "it",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 845158382,
+      "id_str": "845158382",
+      "name": "Luca Luciani",
+      "screen_name": "Luca_Luciani72",
+      "location": "Europa ",
+      "description": "il cielo \u00e8 nero sopra Berlino....",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 96,
+      "friends_count": 127,
+      "listed_count": 0,
+      "created_at": "Tue Sep 25 08:59:28 +0000 2012",
+      "favourites_count": 7338,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 12206,
+      "lang": "it",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1053060533866414080/O6dSCNCW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1053060533866414080/O6dSCNCW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/845158382/1539903746",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Nov 21 18:19:43 +0000 2018",
+      "id": 1065308794928996352,
+      "id_str": "1065308794928996352",
+      "text": "#Samsung, arriva super #smartphone con 6 fotocamere. #Galaxys10, il dispositivo dell'anniversario, sar\u00e0 in 4 versio\u2026 https://t.co/BmX6mTh89R",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Samsung",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "text": "smartphone",
+            "indices": [
+              23,
+              34
+            ]
+          },
+          {
+            "text": "Galaxys10",
+            "indices": [
+              53,
+              63
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/BmX6mTh89R",
+            "expanded_url": "https://twitter.com/i/web/status/1065308794928996352",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "it",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 110453836,
+        "id_str": "110453836",
+        "name": "Ansa Tecnologia",
+        "screen_name": "ansa_tecnologia",
+        "location": "Roma",
+        "description": "Le notizie di tecnologia dell'agenzia ANSA",
+        "url": "http://t.co/8O6RNiSkMp",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/8O6RNiSkMp",
+                "expanded_url": "http://www.ansa.it/sito/notizie/tecnologia/tecnologia.shtml",
+                "display_url": "ansa.it/sito/notizie/t\u2026",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2482,
+        "friends_count": 39,
+        "listed_count": 102,
+        "created_at": "Mon Feb 01 16:12:02 +0000 2010",
+        "favourites_count": 16,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 15047,
+        "lang": "it",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/723487307924398081/bKPjgLJO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/723487307924398081/bKPjgLJO_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/110453836/1408988539",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "it"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "it"
+  },
+  "#galaxynote9": {
+    "created_at": "Wed Nov 21 20:54:41 +0000 2018",
+    "id": 1065347790941892608,
+    "id_str": "1065347790941892608",
+    "text": "RT @GalaxyMobileJP: #GalaxyNote9 \u30aa\u30fc\u30bf\u30e0\u30ad\u30e3\u30f3\u30da\u30fc\u30f3\ud83c\udf41\n#\u3044\u3044\u592b\u5a66\u306e\u65e5 \u3067\u3059\u304c\u3001\u30ad\u30e3\u30f3\u30da\u30fc\u30f3\u306f\u2026\n\n\u26a0\ufe0f\u6b8b\u308a4\u65e5\u26a0\ufe0f\n\n\u30d5\u30a9\u30ed\u30fc\uff06RT\u3067\u3001\u8c6a\u83ef\u88fd\u54c1\u5f53\u305f\u308b\u2728\n\u8a0846\u540d\u69d8\u306b\u3001\u5927\u30c1\u30e3\u30f3\u30b9\u3067\u3059\ud83d\udce3\n\n\u2460@GalaxyMobileJP \u3092\u30d5\u30a9\u30ed\u30fc\ud83c\udfb6\n\u2461\u3053\u306e\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "GalaxyNote9",
+          "indices": [
+            20,
+            32
+          ]
+        },
+        {
+          "text": "\u3044\u3044\u592b\u5a66\u306e\u65e5",
+          "indices": [
+            45,
+            52
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "GalaxyMobileJP",
+          "name": "Galaxy Mobile Japan",
+          "id": 2316574981,
+          "id_str": "2316574981",
+          "indices": [
+            3,
+            18
+          ]
+        },
+        {
+          "screen_name": "GalaxyMobileJP",
+          "name": "Galaxy Mobile Japan",
+          "id": 2316574981,
+          "id_str": "2316574981",
+          "indices": [
+            113,
+            128
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "ja",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 894329242204356608,
+      "id_str": "894329242204356608",
+      "name": "\u3070\u3044\u304d\u3093\u307e\u3093",
+      "screen_name": "M49215126",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1,
+      "friends_count": 9,
+      "listed_count": 0,
+      "created_at": "Sun Aug 06 22:48:01 +0000 2017",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 258,
+      "lang": "ja",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/973506245121290240/S3V3VBAR_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/973506245121290240/S3V3VBAR_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Nov 21 15:00:01 +0000 2018",
+      "id": 1065258538174316544,
+      "id_str": "1065258538174316544",
+      "text": "#GalaxyNote9 \u30aa\u30fc\u30bf\u30e0\u30ad\u30e3\u30f3\u30da\u30fc\u30f3\ud83c\udf41\n#\u3044\u3044\u592b\u5a66\u306e\u65e5 \u3067\u3059\u304c\u3001\u30ad\u30e3\u30f3\u30da\u30fc\u30f3\u306f\u2026\n\n\u26a0\ufe0f\u6b8b\u308a4\u65e5\u26a0\ufe0f\n\n\u30d5\u30a9\u30ed\u30fc\uff06RT\u3067\u3001\u8c6a\u83ef\u88fd\u54c1\u5f53\u305f\u308b\u2728\n\u8a0846\u540d\u69d8\u306b\u3001\u5927\u30c1\u30e3\u30f3\u30b9\u3067\u3059\ud83d\udce3\n\n\u2460@GalaxyMobileJP \u3092\u30d5\u30a9\u30ed\u30fc\ud83c\udfb6\u2026 https://t.co/GKKPT9JyAv",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "GalaxyNote9",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "text": "\u3044\u3044\u592b\u5a66\u306e\u65e5",
+            "indices": [
+              25,
+              32
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "GalaxyMobileJP",
+            "name": "Galaxy Mobile Japan",
+            "id": 2316574981,
+            "id_str": "2316574981",
+            "indices": [
+              93,
+              108
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/GKKPT9JyAv",
+            "expanded_url": "https://twitter.com/i/web/status/1065258538174316544",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter Ads Composer</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2316574981,
+        "id_str": "2316574981",
+        "name": "Galaxy Mobile Japan",
+        "screen_name": "GalaxyMobileJP",
+        "location": "Tokyo, Japan",
+        "description": "Galaxy Mobile Japan\u516c\u5f0f\u30a2\u30ab\u30a6\u30f3\u30c8\u3067\u3059\u3002Galaxy\u306e\u6700\u65b0\u60c5\u5831\u3084\u30ad\u30e3\u30f3\u30da\u30fc\u30f3\u60c5\u5831\u306a\u3069\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002\u203b\u3044\u305f\u3060\u3044\u305f\u3054\u610f\u898b\u3001\u3054\u8cea\u554f\u306b \u8fd4\u4fe1\u3067\u304d\u306a\u3044\u5834\u5408\u304c\u3054\u3056\u3044\u307e\u3059\u3002\u4e88\u3081\u3054\u4e86\u627f\u304f\u3060\u3055\u3044\u3002\u5229\u7528\u898f\u7d04\uff1ahttps://t.co/EMlQlmSZw2",
+        "url": "https://t.co/dF9CmEWqLk",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/dF9CmEWqLk",
+                "expanded_url": "http://www.galaxymobile.jp/",
+                "display_url": "galaxymobile.jp",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/EMlQlmSZw2",
+                "expanded_url": "http://www.galaxymobile.jp/sns-policy.html",
+                "display_url": "galaxymobile.jp/sns-policy.html",
+                "indices": [
+                  104,
+                  127
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 416130,
+        "friends_count": 11,
+        "listed_count": 583,
+        "created_at": "Wed Jan 29 05:33:27 +0000 2014",
+        "favourites_count": 525,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 4868277,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1428A0",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1061634662756319233/i22v20Nk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1061634662756319233/i22v20Nk_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2316574981/1539223325",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 10881,
+      "favorite_count": 864,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "is_quote_status": false,
+    "retweet_count": 10881,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  "#galaxynote": {
+    "created_at": "Wed Nov 21 18:04:12 +0000 2018",
+    "id": 1065304887175643136,
+    "id_str": "1065304887175643136",
+    "text": "RT @MyScriptApps: \ud83d\udcac To Android users:\n\n\ud83d\udcf1 You'll never have to worry about forgetting to note something worthy if you have Nebo on your #Gal\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "MyScriptApps",
+          "name": "MyScript Apps",
+          "id": 923143989334872065,
+          "id_str": "923143989334872065",
+          "indices": [
+            3,
+            16
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1172853120,
+      "id_str": "1172853120",
+      "name": "MN_Michele",
+      "screen_name": "MN_DIYmom",
+      "location": "Minnesnowta",
+      "description": "Mom, wife, DIYer, gardener, grow food/not grass. Green Energy #NetNeutrality #Liberal #BlueWave #RESIST #MeToo \nWill block bots & #Trumpettes\nNO lists or PMs!",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1974,
+      "friends_count": 2934,
+      "listed_count": 9,
+      "created_at": "Tue Feb 12 19:25:18 +0000 2013",
+      "favourites_count": 45893,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 29179,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/3245040199/00810d14f2f4cfa0e90332a7424811c0_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/3245040199/00810d14f2f4cfa0e90332a7424811c0_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1172853120/1427791182",
+      "profile_link_color": "4A913C",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sat Nov 17 19:01:15 +0000 2018",
+      "id": 1063869693960835073,
+      "id_str": "1063869693960835073",
+      "text": "\ud83d\udcac To Android users:\n\n\ud83d\udcf1 You'll never have to worry about forgetting to note something worthy if you have Nebo on you\u2026 https://t.co/DxXdDGVbpD",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/DxXdDGVbpD",
+            "expanded_url": "https://twitter.com/i/web/status/1063869693960835073",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 923143989334872065,
+        "id_str": "923143989334872065",
+        "name": "MyScript Apps",
+        "screen_name": "MyScriptApps",
+        "location": "",
+        "description": "News, tips, support for: https://t.co/odqbUsbXdo  https://t.co/HnxRIDdxeE. We reply Mon-Fri 10-6pm CET. For help, visit https://t.co/oYXDEZOKZP",
+        "url": "https://t.co/zOuhnaKvA8",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/zOuhnaKvA8",
+                "expanded_url": "https://www.myscript.com/apps/",
+                "display_url": "myscript.com/apps/",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/odqbUsbXdo",
+                "expanded_url": "http://myscript.com/nebo",
+                "display_url": "myscript.com/nebo",
+                "indices": [
+                  25,
+                  48
+                ]
+              },
+              {
+                "url": "https://t.co/HnxRIDdxeE",
+                "expanded_url": "http://myscript.com/calculator",
+                "display_url": "myscript.com/calculator",
+                "indices": [
+                  50,
+                  73
+                ]
+              },
+              {
+                "url": "https://t.co/oYXDEZOKZP",
+                "expanded_url": "http://app-support.myscript.com",
+                "display_url": "app-support.myscript.com",
+                "indices": [
+                  120,
+                  143
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 803,
+        "friends_count": 9,
+        "listed_count": 12,
+        "created_at": "Wed Oct 25 11:07:33 +0000 2017",
+        "favourites_count": 1252,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 593,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/965639915768832000/TB1rUCp0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/965639915768832000/TB1rUCp0_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/923143989334872065/1519128670",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "#galaxya9": {
+    "created_at": "Wed Nov 21 20:50:26 +0000 2018",
+    "id": 1065346724514881536,
+    "id_str": "1065346724514881536",
+    "text": "RT @phoneradarblog: @Fossil @oppo @WhatsApp @amazonIN #PhoneRadar News - 20th November 2018\n\n\u27a1 #OPPOR17 Confirmed to Launch in India\n\u27a1 Sams\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "PhoneRadar",
+          "indices": [
+            54,
+            65
+          ]
+        },
+        {
+          "text": "OPPOR17",
+          "indices": [
+            95,
+            103
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "phoneradarblog",
+          "name": "PhoneRadar",
+          "id": 24395579,
+          "id_str": "24395579",
+          "indices": [
+            3,
+            18
+          ]
+        },
+        {
+          "screen_name": "Fossil",
+          "name": "Fossil",
+          "id": 119860540,
+          "id_str": "119860540",
+          "indices": [
+            20,
+            27
+          ]
+        },
+        {
+          "screen_name": "oppo",
+          "name": "OPPO",
+          "id": 960653964,
+          "id_str": "960653964",
+          "indices": [
+            28,
+            33
+          ]
+        },
+        {
+          "screen_name": "WhatsApp",
+          "name": "WhatsApp Inc.",
+          "id": 40148479,
+          "id_str": "40148479",
+          "indices": [
+            34,
+            43
+          ]
+        },
+        {
+          "screen_name": "amazonIN",
+          "name": "Amazon.in",
+          "id": 1282946089,
+          "id_str": "1282946089",
+          "indices": [
+            44,
+            53
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 801418404297146368,
+      "id_str": "801418404297146368",
+      "name": "Nadim Akhter",
+      "screen_name": "NadimAkhter20",
+      "location": "Islampur,(West Bengal)",
+      "description": "I am a student.And I read in class 12th.Thats it.",
+      "url": "https://t.co/A4HpP35ecd",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/A4HpP35ecd",
+              "expanded_url": "http://viewtherealworld.blogspot.in",
+              "display_url": "viewtherealworld.blogspot.in",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 5,
+      "friends_count": 58,
+      "listed_count": 0,
+      "created_at": "Wed Nov 23 13:33:32 +0000 2016",
+      "favourites_count": 594,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 235,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1063462723772571649/om7eynny_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1063462723772571649/om7eynny_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Nov 20 15:16:54 +0000 2018",
+      "id": 1064900397729406976,
+      "id_str": "1064900397729406976",
+      "text": "@Fossil @oppo @WhatsApp @amazonIN #PhoneRadar News - 20th November 2018\n\n\u27a1 #OPPOR17 Confirmed to Launch in India\n\u27a1\u2026 https://t.co/5OqdMFyVOX",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "PhoneRadar",
+            "indices": [
+              34,
+              45
+            ]
+          },
+          {
+            "text": "OPPOR17",
+            "indices": [
+              75,
+              83
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Fossil",
+            "name": "Fossil",
+            "id": 119860540,
+            "id_str": "119860540",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "oppo",
+            "name": "OPPO",
+            "id": 960653964,
+            "id_str": "960653964",
+            "indices": [
+              8,
+              13
+            ]
+          },
+          {
+            "screen_name": "WhatsApp",
+            "name": "WhatsApp Inc.",
+            "id": 40148479,
+            "id_str": "40148479",
+            "indices": [
+              14,
+              23
+            ]
+          },
+          {
+            "screen_name": "amazonIN",
+            "name": "Amazon.in",
+            "id": 1282946089,
+            "id_str": "1282946089",
+            "indices": [
+              24,
+              33
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/5OqdMFyVOX",
+            "expanded_url": "https://twitter.com/i/web/status/1064900397729406976",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 1064530012118941701,
+      "in_reply_to_status_id_str": "1064530012118941701",
+      "in_reply_to_user_id": 24395579,
+      "in_reply_to_user_id_str": "24395579",
+      "in_reply_to_screen_name": "phoneradarblog",
+      "user": {
+        "id": 24395579,
+        "id_str": "24395579",
+        "name": "PhoneRadar",
+        "screen_name": "phoneradarblog",
+        "location": "Hyderabad, India",
+        "description": "PhoneRadar reports the latest news in technology, keeping you updated around the Upcoming Smartphones & Gadgets. Contact at press@phoneradar.com / @AmitBhawani",
+        "url": "https://t.co/ikmVxoJlBQ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/ikmVxoJlBQ",
+                "expanded_url": "http://phoneradar.com",
+                "display_url": "phoneradar.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 145658,
+        "friends_count": 2,
+        "listed_count": 241,
+        "created_at": "Sat Mar 14 17:01:42 +0000 2009",
+        "favourites_count": 60,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 10049,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/493741655480995840/uOpuhtG4_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/493741655480995840/uOpuhtG4_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/24395579/1414522370",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 79,
+      "favorite_count": 343,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 79,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "galaxya8": {
+    "created_at": "Wed Nov 21 19:10:08 +0000 2018",
+    "id": 1065321481574498304,
+    "id_str": "1065321481574498304",
+    "text": "@bfanaro Claro que o #GalaxyA8+ \u00e9 melhor, voc\u00ea j\u00e1 viu a tela dele? Fora que se voc\u00ea efetuar uma compara\u00e7\u00e3o, ver\u00e1 qu\u2026 https://t.co/rQkO7eNtJX",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "GalaxyA8",
+          "indices": [
+            21,
+            30
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "bfanaro",
+          "name": "O BRASILEIRO ME FEZ PETISTA - HADDAD 13",
+          "id": 2817175020,
+          "id_str": "2817175020",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/rQkO7eNtJX",
+          "expanded_url": "https://twitter.com/i/web/status/1065321481574498304",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "pt",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://www.keepcon.com\" rel=\"nofollow\">Keepcon Platform</a>",
+    "in_reply_to_status_id": 1064651889076330496,
+    "in_reply_to_status_id_str": "1064651889076330496",
+    "in_reply_to_user_id": 2817175020,
+    "in_reply_to_user_id_str": "2817175020",
+    "in_reply_to_screen_name": "bfanaro",
+    "user": {
+      "id": 59922837,
+      "id_str": "59922837",
+      "name": "Samsung Brasil",
+      "screen_name": "SamsungBrasil",
+      "location": "Brasil",
+      "description": "Twitter Oficial da Samsung no Brasil. Precisando de ajuda? Tire suas d\u00favidas por mensagem.\nNossos Especialistas est\u00e3o prontos para ajudar!",
+      "url": "http://t.co/R3QwWOogsW",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/R3QwWOogsW",
+              "expanded_url": "http://www.samsung.com.br",
+              "display_url": "samsung.com.br",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 559013,
+      "friends_count": 31707,
+      "listed_count": 1323,
+      "created_at": "Fri Jul 24 23:48:17 +0000 2009",
+      "favourites_count": 134,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 124730,
+      "lang": "pt",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "BFC1C1",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/951923129496023040/POigsadL_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/951923129496023040/POigsadL_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/59922837/1542635691",
+      "profile_link_color": "000000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DAECF4",
+      "profile_text_color": "663B12",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "pt"
+  },
+  "#galaxys9+": {
+    "created_at": "Wed Nov 21 20:42:20 +0000 2018",
+    "id": 1065344683931549696,
+    "id_str": "1065344683931549696",
+    "text": "RT @GExperienceFR: Un avant-go\u00fbt d'Android Pie et One UI avant l'arriv\u00e9e de la b\u00eata chez nous \ud83d\udcf1\n#Samsung #update #mise\u00e0jour #beta #Android\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Samsung",
+          "indices": [
+            96,
+            104
+          ]
+        },
+        {
+          "text": "update",
+          "indices": [
+            105,
+            112
+          ]
+        },
+        {
+          "text": "mise\u00e0jour",
+          "indices": [
+            113,
+            123
+          ]
+        },
+        {
+          "text": "beta",
+          "indices": [
+            124,
+            129
+          ]
+        },
+        {
+          "text": "Android",
+          "indices": [
+            130,
+            138
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "GExperienceFR",
+          "name": "Galaxy Experience",
+          "id": 807283660038819846,
+          "id_str": "807283660038819846",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "fr",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 340793625,
+      "id_str": "340793625",
+      "name": "Alexandre Pierrat\ud83d\udcf1",
+      "screen_name": "alexpierrat",
+      "location": "Le Chesnay, France",
+      "description": "\u00c9diteur de @GExperienceFR // Inspired by Humans, Creating the Future // #GalaxyS9",
+      "url": "https://t.co/Z3sz6qpgxL",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/Z3sz6qpgxL",
+              "expanded_url": "http://www.alexpierrat.fr/",
+              "display_url": "alexpierrat.fr",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 176,
+      "friends_count": 532,
+      "listed_count": 15,
+      "created_at": "Sat Jul 23 08:16:06 +0000 2011",
+      "favourites_count": 3187,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 5880,
+      "lang": "fr",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C6E2EE",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1063864242095427584/I4WwUiAm_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1063864242095427584/I4WwUiAm_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/340793625/1542479976",
+      "profile_link_color": "1F98C7",
+      "profile_sidebar_border_color": "C6E2EE",
+      "profile_sidebar_fill_color": "DAECF4",
+      "profile_text_color": "663B12",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Nov 21 20:42:06 +0000 2018",
+      "id": 1065344627421650945,
+      "id_str": "1065344627421650945",
+      "text": "Un avant-go\u00fbt d'Android Pie et One UI avant l'arriv\u00e9e de la b\u00eata chez nous \ud83d\udcf1\n#Samsung #update #mise\u00e0jour #beta\u2026 https://t.co/45XBrvnfWg",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Samsung",
+            "indices": [
+              77,
+              85
+            ]
+          },
+          {
+            "text": "update",
+            "indices": [
+              86,
+              93
+            ]
+          },
+          {
+            "text": "mise\u00e0jour",
+            "indices": [
+              94,
+              104
+            ]
+          },
+          {
+            "text": "beta",
+            "indices": [
+              105,
+              110
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/45XBrvnfWg",
+            "expanded_url": "https://twitter.com/i/web/status/1065344627421650945",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              112,
+              135
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "fr",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 807283660038819846,
+        "id_str": "807283660038819846",
+        "name": "Galaxy Experience",
+        "screen_name": "GExperienceFR",
+        "location": "Le Chesnay, France",
+        "description": "L'actualit\u00e9 100% Samsung Galaxy, et bien plus !",
+        "url": "https://t.co/b3qsB5EvoE",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/b3qsB5EvoE",
+                "expanded_url": "http://www.galaxyexperience.fr/",
+                "display_url": "galaxyexperience.fr",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 318,
+        "friends_count": 47,
+        "listed_count": 7,
+        "created_at": "Fri Dec 09 17:59:57 +0000 2016",
+        "favourites_count": 288,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 4036,
+        "lang": "fr",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1020732395211849728/6ZbskBtp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1020732395211849728/6ZbskBtp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/807283660038819846/1532196555",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "fr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "fr"
+  },
+  "galaxya7": {
+    "created_at": "Wed Nov 21 19:22:20 +0000 2018",
+    "id": 1065324550282457088,
+    "id_str": "1065324550282457088",
+    "text": "Blau (o2): Alles-Flat + 3GB / 5GB LTE ab mtl. 12,99\u20ac + Huawei P20 lite / Mate 20 lite / Samsung Galaxy A7 f\u00fcr 1\u20ac \u25b6\ufe0f\u2026 https://t.co/iZWQKjjOEQ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/iZWQKjjOEQ",
+          "expanded_url": "https://twitter.com/i/web/status/1065324550282457088",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "iso_language_code": "de",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 32330355,
+      "id_str": "32330355",
+      "name": "DealDoktor",
+      "screen_name": "dealdoktor",
+      "location": "",
+      "description": "T\u00e4glich die besten Schn\u00e4ppchen, viel Kostenloses, Gutscheine, Deals und Tipps zum Geld sparen bzw. verdienen im Internet.",
+      "url": "http://t.co/ckiMdB6IyN",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/ckiMdB6IyN",
+              "expanded_url": "http://www.dealdoktor.de",
+              "display_url": "dealdoktor.de",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2729,
+      "friends_count": 37,
+      "listed_count": 350,
+      "created_at": "Fri Apr 17 06:16:13 +0000 2009",
+      "favourites_count": 5,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 44147,
+      "lang": "de",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "0099B9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1455181655/dealdoktor_icon_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1455181655/dealdoktor_icon_normal.jpg",
+      "profile_link_color": "0099B9",
+      "profile_sidebar_border_color": "5ED4DC",
+      "profile_sidebar_fill_color": "95E8EC",
+      "profile_text_color": "3C3940",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "de"
+  },
+  "galaxya5\n": {
+    "created_at": "Mon Nov 19 13:54:56 +0000 2018",
+    "id": 1064517382847254528,
+    "id_str": "1064517382847254528",
+    "text": "M\u00e9s de mil anys.\n#natura_catalunya #OliveresMil\u2022len\u00e0riesArion #naturaleza_catalunya #ulldecona #somebre\u2026 https://t.co/uajCVWcuC6",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "natura_catalunya",
+          "indices": [
+            17,
+            34
+          ]
+        },
+        {
+          "text": "OliveresMil",
+          "indices": [
+            35,
+            47
+          ]
+        },
+        {
+          "text": "naturaleza_catalunya",
+          "indices": [
+            62,
+            83
+          ]
+        },
+        {
+          "text": "ulldecona",
+          "indices": [
+            84,
+            94
+          ]
+        },
+        {
+          "text": "somebre",
+          "indices": [
+            95,
+            103
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/uajCVWcuC6",
+          "expanded_url": "https://twitter.com/i/web/status/1064517382847254528",
+          "display_url": "twitter.com/i/web/status/1\u2026",
+          "indices": [
+            105,
+            128
+          ]
+        }
+      ]
+    },
+    "metadata": {
+      "result_type": "recent",
+      "iso_language_code": "ca"
+    },
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1190053776,
+      "id_str": "1190053776",
+      "name": "Miquel Gil Martin",
+      "screen_name": "MiquelGilMartin",
+      "location": "",
+      "description": "Aficionat #fotografia, encara aprenent.   https://t.co/jJm5jdePt2",
+      "url": "http://t.co/mS6mESEgyo",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/mS6mESEgyo",
+              "expanded_url": "http://miquelgilmartin.blogspot.com.es/",
+              "display_url": "miquelgilmartin.blogspot.com.es",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/jJm5jdePt2",
+              "expanded_url": "https://www.flickr.com/photos/gilmartin",
+              "display_url": "flickr.com/photos/gilmart\u2026",
+              "indices": [
+                42,
+                65
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 816,
+      "friends_count": 749,
+      "listed_count": 29,
+      "created_at": "Sun Feb 17 16:18:24 +0000 2013",
+      "favourites_count": 310,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 17959,
+      "lang": "ca",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/935876199947137026/i55MnSj1_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/935876199947137026/i55MnSj1_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1190053776/1511965208",
+      "profile_link_color": "4A913C",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ca"
+  }
+}

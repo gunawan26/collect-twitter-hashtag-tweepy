@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f91ca1a-1e48-48d7-a1aa-866cac851607" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/#oppo.json" beforeDir="false" afterPath="$PROJECT_DIR$/#oppo.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/big-data.py" beforeDir="false" afterPath="$PROJECT_DIR$/big-data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hashtag.txt" beforeDir="false" afterPath="$PROJECT_DIR$/hashtag.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,14 +63,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="516" />
+          <entry key="py" value="609" />
           <entry key="txt" value="163" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="163" />
-          <entry key="Python" value="516" />
+          <entry key="Python" value="609" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -97,12 +94,13 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/big-data.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="474">
-                  <caret line="60" column="10" lean-forward="true" selection-start-line="60" selection-start-column="10" selection-end-line="60" selection-end-column="10" />
+                <state relative-caret-position="555">
+                  <caret line="53" column="1" lean-forward="true" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="14" />
                   <folding>
                     <element signature="e#0#13#0" expanded="true" />
-                    <marker date="1542828922499" expanded="true" signature="991:1082" ph="..." />
-                    <marker date="1542828922499" expanded="true" signature="991:1315" ph="..." />
+                    <marker date="1542834204582" expanded="true" signature="883:995" ph="..." />
+                    <marker date="1542834204582" expanded="true" signature="1040:1131" ph="..." />
+                    <marker date="1542834204582" expanded="true" signature="1040:1379" ph="..." />
                   </folding>
                 </state>
               </provider>
@@ -393,12 +391,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/big-data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="60" column="10" lean-forward="true" selection-start-line="60" selection-start-column="10" selection-end-line="60" selection-end-column="10" />
+        <state relative-caret-position="555">
+          <caret line="53" column="1" lean-forward="true" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="14" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
-            <marker date="1542828922499" expanded="true" signature="991:1082" ph="..." />
-            <marker date="1542828922499" expanded="true" signature="991:1315" ph="..." />
+            <marker date="1542834204582" expanded="true" signature="883:995" ph="..." />
+            <marker date="1542834204582" expanded="true" signature="1040:1131" ph="..." />
+            <marker date="1542834204582" expanded="true" signature="1040:1379" ph="..." />
           </folding>
         </state>
       </provider>

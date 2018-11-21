@@ -1,0 +1,1512 @@
+{
+  "#samsung": {
+    "created_at": "Wed Nov 21 20:50:16 +0000 2018",
+    "id": 1065346679229112321,
+    "id_str": "1065346679229112321",
+    "text": "RT @4GadgetsUK: SAMSUNG GALAXY TAB ACTIVE GIVEAWAY!\ud83e\udd2f\nAll you need to do is follow us, like this post and tag a friend below to be in for a\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "4GadgetsUK",
+          "name": "4Gadgets",
+          "id": 3147970433,
+          "id_str": "3147970433",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 149198014,
+      "id_str": "149198014",
+      "name": "Lorraine Crawford",
+      "screen_name": "lorrainec162",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 39,
+      "friends_count": 542,
+      "listed_count": 0,
+      "created_at": "Fri May 28 17:29:16 +0000 2010",
+      "favourites_count": 525,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 967,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": true,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Nov 21 17:07:17 +0000 2018",
+      "id": 1065290563392585728,
+      "id_str": "1065290563392585728",
+      "text": "SAMSUNG GALAXY TAB ACTIVE GIVEAWAY!\ud83e\udd2f\nAll you need to do is follow us, like this post and tag a friend below to be i\u2026 https://t.co/ETQzA89jRZ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ETQzA89jRZ",
+            "expanded_url": "https://twitter.com/i/web/status/1065290563392585728",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3147970433,
+        "id_str": "3147970433",
+        "name": "4Gadgets",
+        "screen_name": "4GadgetsUK",
+        "location": "United Kingdom",
+        "description": "4Gadgets provide top quality used mobile phones for the best prices around. If you want to get yourself a real bargain visit our site at https://t.co/QYdkujwWtJ",
+        "url": "https://t.co/QYdkujwWtJ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/QYdkujwWtJ",
+                "expanded_url": "http://www.4gadgets.co.uk",
+                "display_url": "4gadgets.co.uk",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/QYdkujwWtJ",
+                "expanded_url": "http://www.4gadgets.co.uk",
+                "display_url": "4gadgets.co.uk",
+                "indices": [
+                  137,
+                  160
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 5095,
+        "friends_count": 1289,
+        "listed_count": 10,
+        "created_at": "Wed Apr 08 13:50:45 +0000 2015",
+        "favourites_count": 170,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 826,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/710539346097610752/tKhIIsVr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/710539346097610752/tKhIIsVr_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3147970433/1458223056",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "6c3784993a540a38",
+        "url": "https://api.twitter.com/1.1/geo/id/6c3784993a540a38.json",
+        "place_type": "city",
+        "name": "Harlow",
+        "full_name": "Harlow, East",
+        "country_code": "GB",
+        "country": "United Kingdom",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                0.0585165,
+                51.7406635
+              ],
+              [
+                0.154957,
+                51.7406635
+              ],
+              [
+                0.154957,
+                51.795864
+              ],
+              [
+                0.0585165,
+                51.795864
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 128,
+      "favorite_count": 139,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 128,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }
+}{
+  "#samsung": {
+    "created_at": "Wed Nov 21 20:50:16 +0000 2018",
+    "id": 1065346679229112321,
+    "id_str": "1065346679229112321",
+    "text": "RT @4GadgetsUK: SAMSUNG GALAXY TAB ACTIVE GIVEAWAY!\ud83e\udd2f\nAll you need to do is follow us, like this post and tag a friend below to be in for a\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "4GadgetsUK",
+          "name": "4Gadgets",
+          "id": 3147970433,
+          "id_str": "3147970433",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 149198014,
+      "id_str": "149198014",
+      "name": "Lorraine Crawford",
+      "screen_name": "lorrainec162",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 39,
+      "friends_count": 542,
+      "listed_count": 0,
+      "created_at": "Fri May 28 17:29:16 +0000 2010",
+      "favourites_count": 525,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 967,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": true,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Nov 21 17:07:17 +0000 2018",
+      "id": 1065290563392585728,
+      "id_str": "1065290563392585728",
+      "text": "SAMSUNG GALAXY TAB ACTIVE GIVEAWAY!\ud83e\udd2f\nAll you need to do is follow us, like this post and tag a friend below to be i\u2026 https://t.co/ETQzA89jRZ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ETQzA89jRZ",
+            "expanded_url": "https://twitter.com/i/web/status/1065290563392585728",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3147970433,
+        "id_str": "3147970433",
+        "name": "4Gadgets",
+        "screen_name": "4GadgetsUK",
+        "location": "United Kingdom",
+        "description": "4Gadgets provide top quality used mobile phones for the best prices around. If you want to get yourself a real bargain visit our site at https://t.co/QYdkujwWtJ",
+        "url": "https://t.co/QYdkujwWtJ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/QYdkujwWtJ",
+                "expanded_url": "http://www.4gadgets.co.uk",
+                "display_url": "4gadgets.co.uk",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/QYdkujwWtJ",
+                "expanded_url": "http://www.4gadgets.co.uk",
+                "display_url": "4gadgets.co.uk",
+                "indices": [
+                  137,
+                  160
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 5095,
+        "friends_count": 1289,
+        "listed_count": 10,
+        "created_at": "Wed Apr 08 13:50:45 +0000 2015",
+        "favourites_count": 170,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 826,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/710539346097610752/tKhIIsVr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/710539346097610752/tKhIIsVr_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3147970433/1458223056",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "6c3784993a540a38",
+        "url": "https://api.twitter.com/1.1/geo/id/6c3784993a540a38.json",
+        "place_type": "city",
+        "name": "Harlow",
+        "full_name": "Harlow, East",
+        "country_code": "GB",
+        "country": "United Kingdom",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                0.0585165,
+                51.7406635
+              ],
+              [
+                0.154957,
+                51.7406635
+              ],
+              [
+                0.154957,
+                51.795864
+              ],
+              [
+                0.0585165,
+                51.795864
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 128,
+      "favorite_count": 139,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 128,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "#galaxys9": {
+    "created_at": "Wed Nov 21 20:42:20 +0000 2018",
+    "id": 1065344683931549696,
+    "id_str": "1065344683931549696",
+    "text": "RT @GExperienceFR: Un avant-go\u00fbt d'Android Pie et One UI avant l'arriv\u00e9e de la b\u00eata chez nous \ud83d\udcf1\n#Samsung #update #mise\u00e0jour #beta #Android\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Samsung",
+          "indices": [
+            96,
+            104
+          ]
+        },
+        {
+          "text": "update",
+          "indices": [
+            105,
+            112
+          ]
+        },
+        {
+          "text": "mise\u00e0jour",
+          "indices": [
+            113,
+            123
+          ]
+        },
+        {
+          "text": "beta",
+          "indices": [
+            124,
+            129
+          ]
+        },
+        {
+          "text": "Android",
+          "indices": [
+            130,
+            138
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "GExperienceFR",
+          "name": "Galaxy Experience",
+          "id": 807283660038819846,
+          "id_str": "807283660038819846",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "fr",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 340793625,
+      "id_str": "340793625",
+      "name": "Alexandre Pierrat\ud83d\udcf1",
+      "screen_name": "alexpierrat",
+      "location": "Le Chesnay, France",
+      "description": "\u00c9diteur de @GExperienceFR // Inspired by Humans, Creating the Future // #GalaxyS9",
+      "url": "https://t.co/Z3sz6qpgxL",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/Z3sz6qpgxL",
+              "expanded_url": "http://www.alexpierrat.fr/",
+              "display_url": "alexpierrat.fr",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 176,
+      "friends_count": 532,
+      "listed_count": 15,
+      "created_at": "Sat Jul 23 08:16:06 +0000 2011",
+      "favourites_count": 3187,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 5880,
+      "lang": "fr",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C6E2EE",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1063864242095427584/I4WwUiAm_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1063864242095427584/I4WwUiAm_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/340793625/1542479976",
+      "profile_link_color": "1F98C7",
+      "profile_sidebar_border_color": "C6E2EE",
+      "profile_sidebar_fill_color": "DAECF4",
+      "profile_text_color": "663B12",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Nov 21 20:42:06 +0000 2018",
+      "id": 1065344627421650945,
+      "id_str": "1065344627421650945",
+      "text": "Un avant-go\u00fbt d'Android Pie et One UI avant l'arriv\u00e9e de la b\u00eata chez nous \ud83d\udcf1\n#Samsung #update #mise\u00e0jour #beta\u2026 https://t.co/45XBrvnfWg",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Samsung",
+            "indices": [
+              77,
+              85
+            ]
+          },
+          {
+            "text": "update",
+            "indices": [
+              86,
+              93
+            ]
+          },
+          {
+            "text": "mise\u00e0jour",
+            "indices": [
+              94,
+              104
+            ]
+          },
+          {
+            "text": "beta",
+            "indices": [
+              105,
+              110
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/45XBrvnfWg",
+            "expanded_url": "https://twitter.com/i/web/status/1065344627421650945",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              112,
+              135
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "fr",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 807283660038819846,
+        "id_str": "807283660038819846",
+        "name": "Galaxy Experience",
+        "screen_name": "GExperienceFR",
+        "location": "Le Chesnay, France",
+        "description": "L'actualit\u00e9 100% Samsung Galaxy, et bien plus !",
+        "url": "https://t.co/b3qsB5EvoE",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/b3qsB5EvoE",
+                "expanded_url": "http://www.galaxyexperience.fr/",
+                "display_url": "galaxyexperience.fr",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 318,
+        "friends_count": 47,
+        "listed_count": 7,
+        "created_at": "Fri Dec 09 17:59:57 +0000 2016",
+        "favourites_count": 288,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 4036,
+        "lang": "fr",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1020732395211849728/6ZbskBtp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1020732395211849728/6ZbskBtp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/807283660038819846/1532196555",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "fr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "fr"
+  }
+}{
+  "#samsung": {
+    "created_at": "Wed Nov 21 20:50:16 +0000 2018",
+    "id": 1065346679229112321,
+    "id_str": "1065346679229112321",
+    "text": "RT @4GadgetsUK: SAMSUNG GALAXY TAB ACTIVE GIVEAWAY!\ud83e\udd2f\nAll you need to do is follow us, like this post and tag a friend below to be in for a\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "4GadgetsUK",
+          "name": "4Gadgets",
+          "id": 3147970433,
+          "id_str": "3147970433",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "en",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 149198014,
+      "id_str": "149198014",
+      "name": "Lorraine Crawford",
+      "screen_name": "lorrainec162",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 39,
+      "friends_count": 542,
+      "listed_count": 0,
+      "created_at": "Fri May 28 17:29:16 +0000 2010",
+      "favourites_count": 525,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 967,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": true,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Nov 21 17:07:17 +0000 2018",
+      "id": 1065290563392585728,
+      "id_str": "1065290563392585728",
+      "text": "SAMSUNG GALAXY TAB ACTIVE GIVEAWAY!\ud83e\udd2f\nAll you need to do is follow us, like this post and tag a friend below to be i\u2026 https://t.co/ETQzA89jRZ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ETQzA89jRZ",
+            "expanded_url": "https://twitter.com/i/web/status/1065290563392585728",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3147970433,
+        "id_str": "3147970433",
+        "name": "4Gadgets",
+        "screen_name": "4GadgetsUK",
+        "location": "United Kingdom",
+        "description": "4Gadgets provide top quality used mobile phones for the best prices around. If you want to get yourself a real bargain visit our site at https://t.co/QYdkujwWtJ",
+        "url": "https://t.co/QYdkujwWtJ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/QYdkujwWtJ",
+                "expanded_url": "http://www.4gadgets.co.uk",
+                "display_url": "4gadgets.co.uk",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/QYdkujwWtJ",
+                "expanded_url": "http://www.4gadgets.co.uk",
+                "display_url": "4gadgets.co.uk",
+                "indices": [
+                  137,
+                  160
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 5095,
+        "friends_count": 1289,
+        "listed_count": 10,
+        "created_at": "Wed Apr 08 13:50:45 +0000 2015",
+        "favourites_count": 170,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 826,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/710539346097610752/tKhIIsVr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/710539346097610752/tKhIIsVr_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3147970433/1458223056",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "6c3784993a540a38",
+        "url": "https://api.twitter.com/1.1/geo/id/6c3784993a540a38.json",
+        "place_type": "city",
+        "name": "Harlow",
+        "full_name": "Harlow, East",
+        "country_code": "GB",
+        "country": "United Kingdom",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                0.0585165,
+                51.7406635
+              ],
+              [
+                0.154957,
+                51.7406635
+              ],
+              [
+                0.154957,
+                51.795864
+              ],
+              [
+                0.0585165,
+                51.795864
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 128,
+      "favorite_count": 139,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 128,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "#galaxys9": {
+    "created_at": "Wed Nov 21 20:42:20 +0000 2018",
+    "id": 1065344683931549696,
+    "id_str": "1065344683931549696",
+    "text": "RT @GExperienceFR: Un avant-go\u00fbt d'Android Pie et One UI avant l'arriv\u00e9e de la b\u00eata chez nous \ud83d\udcf1\n#Samsung #update #mise\u00e0jour #beta #Android\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Samsung",
+          "indices": [
+            96,
+            104
+          ]
+        },
+        {
+          "text": "update",
+          "indices": [
+            105,
+            112
+          ]
+        },
+        {
+          "text": "mise\u00e0jour",
+          "indices": [
+            113,
+            123
+          ]
+        },
+        {
+          "text": "beta",
+          "indices": [
+            124,
+            129
+          ]
+        },
+        {
+          "text": "Android",
+          "indices": [
+            130,
+            138
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "GExperienceFR",
+          "name": "Galaxy Experience",
+          "id": 807283660038819846,
+          "id_str": "807283660038819846",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "fr",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 340793625,
+      "id_str": "340793625",
+      "name": "Alexandre Pierrat\ud83d\udcf1",
+      "screen_name": "alexpierrat",
+      "location": "Le Chesnay, France",
+      "description": "\u00c9diteur de @GExperienceFR // Inspired by Humans, Creating the Future // #GalaxyS9",
+      "url": "https://t.co/Z3sz6qpgxL",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/Z3sz6qpgxL",
+              "expanded_url": "http://www.alexpierrat.fr/",
+              "display_url": "alexpierrat.fr",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 176,
+      "friends_count": 532,
+      "listed_count": 15,
+      "created_at": "Sat Jul 23 08:16:06 +0000 2011",
+      "favourites_count": 3187,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 5880,
+      "lang": "fr",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C6E2EE",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1063864242095427584/I4WwUiAm_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1063864242095427584/I4WwUiAm_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/340793625/1542479976",
+      "profile_link_color": "1F98C7",
+      "profile_sidebar_border_color": "C6E2EE",
+      "profile_sidebar_fill_color": "DAECF4",
+      "profile_text_color": "663B12",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Nov 21 20:42:06 +0000 2018",
+      "id": 1065344627421650945,
+      "id_str": "1065344627421650945",
+      "text": "Un avant-go\u00fbt d'Android Pie et One UI avant l'arriv\u00e9e de la b\u00eata chez nous \ud83d\udcf1\n#Samsung #update #mise\u00e0jour #beta\u2026 https://t.co/45XBrvnfWg",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Samsung",
+            "indices": [
+              77,
+              85
+            ]
+          },
+          {
+            "text": "update",
+            "indices": [
+              86,
+              93
+            ]
+          },
+          {
+            "text": "mise\u00e0jour",
+            "indices": [
+              94,
+              104
+            ]
+          },
+          {
+            "text": "beta",
+            "indices": [
+              105,
+              110
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/45XBrvnfWg",
+            "expanded_url": "https://twitter.com/i/web/status/1065344627421650945",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              112,
+              135
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "fr",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 807283660038819846,
+        "id_str": "807283660038819846",
+        "name": "Galaxy Experience",
+        "screen_name": "GExperienceFR",
+        "location": "Le Chesnay, France",
+        "description": "L'actualit\u00e9 100% Samsung Galaxy, et bien plus !",
+        "url": "https://t.co/b3qsB5EvoE",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/b3qsB5EvoE",
+                "expanded_url": "http://www.galaxyexperience.fr/",
+                "display_url": "galaxyexperience.fr",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 318,
+        "friends_count": 47,
+        "listed_count": 7,
+        "created_at": "Fri Dec 09 17:59:57 +0000 2016",
+        "favourites_count": 288,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 4036,
+        "lang": "fr",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1020732395211849728/6ZbskBtp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1020732395211849728/6ZbskBtp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/807283660038819846/1532196555",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "fr"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "fr"
+  },
+  "#galaxys10": {
+    "created_at": "Wed Nov 21 20:49:29 +0000 2018",
+    "id": 1065346483552169984,
+    "id_str": "1065346483552169984",
+    "text": "RT @ansa_tecnologia: #Samsung, arriva super #smartphone con 6 fotocamere. #Galaxys10, il dispositivo dell'anniversario, sar\u00e0 in 4 versioni.\u2026",
+    "truncated": false,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Samsung",
+          "indices": [
+            21,
+            29
+          ]
+        },
+        {
+          "text": "smartphone",
+          "indices": [
+            44,
+            55
+          ]
+        },
+        {
+          "text": "Galaxys10",
+          "indices": [
+            74,
+            84
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "ansa_tecnologia",
+          "name": "Ansa Tecnologia",
+          "id": 110453836,
+          "id_str": "110453836",
+          "indices": [
+            3,
+            19
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "metadata": {
+      "iso_language_code": "it",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 845158382,
+      "id_str": "845158382",
+      "name": "Luca Luciani",
+      "screen_name": "Luca_Luciani72",
+      "location": "Europa ",
+      "description": "il cielo \u00e8 nero sopra Berlino....",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 96,
+      "friends_count": 127,
+      "listed_count": 0,
+      "created_at": "Tue Sep 25 08:59:28 +0000 2012",
+      "favourites_count": 7332,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 12202,
+      "lang": "it",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1053060533866414080/O6dSCNCW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1053060533866414080/O6dSCNCW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/845158382/1539903746",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Nov 21 18:19:43 +0000 2018",
+      "id": 1065308794928996352,
+      "id_str": "1065308794928996352",
+      "text": "#Samsung, arriva super #smartphone con 6 fotocamere. #Galaxys10, il dispositivo dell'anniversario, sar\u00e0 in 4 versio\u2026 https://t.co/BmX6mTh89R",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Samsung",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "text": "smartphone",
+            "indices": [
+              23,
+              34
+            ]
+          },
+          {
+            "text": "Galaxys10",
+            "indices": [
+              53,
+              63
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/BmX6mTh89R",
+            "expanded_url": "https://twitter.com/i/web/status/1065308794928996352",
+            "display_url": "twitter.com/i/web/status/1\u2026",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "it",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 110453836,
+        "id_str": "110453836",
+        "name": "Ansa Tecnologia",
+        "screen_name": "ansa_tecnologia",
+        "location": "Roma",
+        "description": "Le notizie di tecnologia dell'agenzia ANSA",
+        "url": "http://t.co/8O6RNiSkMp",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/8O6RNiSkMp",
+                "expanded_url": "http://www.ansa.it/sito/notizie/tecnologia/tecnologia.shtml",
+                "display_url": "ansa.it/sito/notizie/t\u2026",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2482,
+        "friends_count": 39,
+        "listed_count": 102,
+        "created_at": "Mon Feb 01 16:12:02 +0000 2010",
+        "favourites_count": 16,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 15047,
+        "lang": "it",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/723487307924398081/bKPjgLJO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/723487307924398081/bKPjgLJO_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/110453836/1408988539",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "it"
+    },
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "it"
+  }
+}
