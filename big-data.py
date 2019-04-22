@@ -3,10 +3,10 @@ import json
 import datetime
 
 
-consumer_key = "MF9HGJHix7aH40oel8O9zbc7k"
-consumer_secret = "Rd97ibI3rtXTAeyQOqpnVhIWNnCJknRF5wifLw7aoFDY9O586a"
-access_token ="1222006003-KZffuFWbvIZvMFYuNQDGvAQyqdo3UmPVue2bmmQ"
-access_token_secret = "97GvmsPUzASgkLDEAhzhIf6nholUc3JpiYEUre8nXjj4t"
+consumer_key = "__consumer key__"
+consumer_secret = "__consumer secret__"
+access_token ="__ acccess token__"
+access_token_secret = "__token secret___"
 
 name_var = ""
 jumlah_data = 100
